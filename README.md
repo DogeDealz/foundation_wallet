@@ -4,7 +4,7 @@ A Wallet Forked from Dogecoin Foundation Main branch that is a backend service w
 The motivation behind the Dealz Foundation Wallet is to create a decentralized platform for businesses that would like to use Dogecoin from a source that is not tied to the Dogecoin Foundation because reasons.
 
 ***Read the manual here: [https://gigawallet.dogecoin.org](https://gigawallet.dogecoin.org)***
-> The Foundation Implementation Manual sucks and is one of those reasons
+> The foundation Implementation Manual sucks and is one of those reasons
 > DogeDealz is going to write its own better implementation manual that is ISO 2022 compliant
 
 ## Major Components / Architecture overview
