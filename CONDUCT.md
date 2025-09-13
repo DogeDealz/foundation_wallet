@@ -6,7 +6,7 @@ The DogeDealz community consists of people from around the world with diverse ta
 When working with people within the DogeDealz community, this code will help guide your relationships 
 to ensure that the community remains aligned to with Dogecoin. 
 
-Three Pillars: Be **Personable**, **Useful,** **Reliable**
+The three pillars of this code are to be: **Personable**, **Useful,** & **Reliable**
 
 ## Scope
 
