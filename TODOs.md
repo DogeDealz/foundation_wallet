@@ -1,29 +1,29 @@
-## What's happening atm? 
+## What are we going to do? 
 
-
-#### Cleanup APIs - @tjstebbing 
+#### Cleanup APIs - @georgeartem 
   - [ ] Refresh old PR and apply to private endpoints #17
   - [ ] Add appropriate JSON (connect) output to invoice api
-  - [x] Add invoice reading endpoint with QRcode 
-  - [x] Move to a sub-package `webapi.go` getting big
+  - [ ] Add invoice reading endpoint with QRcode 
+  - [ ] Move to a sub-package `webapi.go` getting big
 
   
-#### Auto-reconciliation feature - @tjstebbing
+#### Auto-reconciliation feature - @georgeartem
   - [ ] Add account 'settings' to DB
   - [ ] Add reconciliation setting per account (where/when to auto send Doge payments)
   - [ ] Add reconciliation setting per invoice (overrides account setting)
   - [ ] Write an Accountant service to manage automatic payments etc.
   
-#### Message broker - @tjstebbing
+#### Message broker - TBD
   - [ ] Build AMQP connector for external event integration
-  - [x] Build logger connector for debugging msg bus
-  - [x] Build message bus system
+  - [ ] Build logger connector for debugging msg bus
+  - [ ] Build message bus system
 
-#### Transaction Broker - @raffecat
+#### Transaction Broker - TBD
   - [ ] Detect tip reorgs (what happens?) 
-  - [x] Connect to core ZMQ channels and recieve blocks
+  - [ ] Connect to core ZMQ channels and recieve blocks
 
-#### Wallet logic - @raffecat
+#### Wallet logic - TBD
   - [ ] Implement balance querying API (total vs available?)
-  - [x] Implement unspent UTXO tracking for payments
+  - [ ] Implement unspent UTXO tracking for payments
 
+#### Write New Implementation Documentation 
