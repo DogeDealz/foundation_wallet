@@ -5,7 +5,7 @@ The motivation behind the Dealz Foundation Wallet is to create a decentralized p
 
 ***Read the manual here: [https://gigawallet.dogecoin.org](https://gigawallet.dogecoin.org)***
 > The foundation Implementation Manual sucks and is one of those reasons
-> DogeDealz is going to write its own better implementation manual that is ISO 2022 compliant
+> DogeDealz is going to write its own better implementation manual that is ISO 20022 compliant
 
 ## Major Components / Architecture overview
 ![Major components of the GigaWallet / DogeConnect Project](/doc/gigawallet-components.png)
